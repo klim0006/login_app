@@ -6,9 +6,11 @@ A Login Application is created by Flutter
 2. Flowchart
 3. Test Cases
 4. Test Report
-5. Test Scenario (In Progress)
-6. Sanity Testing (In Progress)
-7. Automated by using Robot (In Progress)
+
+# In Progress
+1. Test Scenario
+2. Sanity Testing
+3. Automated by using Robot
 
 # Demo
 https://github.com/klim0006/login_app/assets/153447396/07dee1dc-73b0-4b4c-ba79-d3d17c750610
