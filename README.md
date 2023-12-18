@@ -3,19 +3,28 @@ A Login Application is created by Flutter
 
 # What I have done in this project
 1. Simple Login Application by Flutter
-2. Test Cases
-3. Test Report
-4. Flowchart
+2. Flowchart
+3. Test Cases
+4. Test Report
+5. Test Scenario (In Progress)
+6. Sanity Testing (In Progress)
+7. Automated by using Robot (In Progress)
 
 # Demo
 https://github.com/klim0006/login_app/assets/153447396/07dee1dc-73b0-4b4c-ba79-d3d17c750610
+
+# Flowchart
+![login_flowchart](https://github.com/klim0006/login_app/assets/153447396/2edfef27-0af4-4992-b7fa-52bcdc5ceeee)
 
 # Test Cases And Test Report
 ![test_case](https://github.com/klim0006/login_app/assets/153447396/ce705da4-1a9b-4186-be06-da937aaf3569)
 You can see more detail in the test_result folder
 
-# Flowchart
-![login_flowchart](https://github.com/klim0006/login_app/assets/153447396/2edfef27-0af4-4992-b7fa-52bcdc5ceeee)
+# Test Scenario (In Progress)
+
+# Sanity Testing (In Progress)
+
+# Automated by using Robot (In Progress)
 
 # Needed Tools
 1. VSCode
