@@ -4,10 +4,9 @@
 # What I have done 
 1. Login application by Flutter (Login Page, Calculator Page)
 2. Flowchart
-3. Test Plan
-4. Test Cases
-5. Test Scenario
-6. Test Report
+3. Test Cases
+4. Test Scenario
+5. Test Report
 
 # In Progress (Learn new thing)
 1. Automated test
@@ -21,9 +20,6 @@
 | Login  | Calculator |
 | ------------- | ------------- |
 | <img src="https://github.com/klim0006/login_app/assets/153447396/489b12a9-3bd5-461e-b06a-b6d27e9de3f3">  | <img src="https://github.com/klim0006/login_app/assets/153447396/0feeb79d-57c8-49a1-902b-1e9ac435b32c">|
-
-# Test Plan
-> See more datail here https://docs.google.com/spreadsheets/d/1PZuyvAgxjYgiLQ9s6Wnv53ZUObscJWlZYTt73s064IY/edit?usp=sharing
 
 # Test Cases
 | Login  | Calculator |
