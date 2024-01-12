@@ -7,6 +7,7 @@
 3. Test Cases
 4. Test Scenario
 5. Test Report
+6. Log defect
 
 # In Progress (Learn new knowledge)
 1. Automated test
@@ -28,12 +29,21 @@
 > See more datail here https://docs.google.com/spreadsheets/d/1PZuyvAgxjYgiLQ9s6Wnv53ZUObscJWlZYTt73s064IY/edit?usp=sharing
 
 # Test Scenario
+| Scenario |
+| ------------- |
+| <img src="https://github.com/klim0006/login_app/assets/153447396/96642cf1-80fd-4b46-a2dd-9acf944eddfc">  |
 > See more datail here https://docs.google.com/spreadsheets/d/1PZuyvAgxjYgiLQ9s6Wnv53ZUObscJWlZYTt73s064IY/edit?usp=sharing
 
 # Test Report
-| Login  | Calculator |
-| ------------- | ------------- |
-| <img src="https://github.com/klim0006/login_app/assets/153447396/f6f708a3-0b1b-4164-8234-55236eb93c05">  | <img src="">|
+| Login and Calculator  |
+| ------------- |
+| <img src="https://github.com/klim0006/login_app/assets/153447396/c4eb4e62-0ca6-4257-a702-a5612ccb7edc">  |
+> See more datail here https://docs.google.com/spreadsheets/d/1PZuyvAgxjYgiLQ9s6Wnv53ZUObscJWlZYTt73s064IY/edit?usp=sharing
+
+# Log Defect
+| Defect |
+| ------------- |
+| <img src="https://github.com/klim0006/login_app/assets/153447396/5bd71187-ccb1-45ca-87c9-b5007f0bd2ff">  |
 > See more datail here https://docs.google.com/spreadsheets/d/1PZuyvAgxjYgiLQ9s6Wnv53ZUObscJWlZYTt73s064IY/edit?usp=sharing
 
 # Needed tools
