@@ -8,7 +8,7 @@
 4. Test Scenario
 5. Test Report
 
-# In Progress (Learn new thing)
+# In Progress (Learn new knowledge)
 1. Automated test
 
 # Demo
