@@ -20,7 +20,7 @@
 # Flowchart
 | Login  | Calculator |
 | ------------- | ------------- |
-| <img src="https://github.com/klim0006/login_app/assets/153447396/489b12a9-3bd5-461e-b06a-b6d27e9de3f3">  | <img src="https://github.com/klim0006/login_app/assets/153447396/0feeb79d-57c8-49a1-902b-1e9ac435b32c">|
+| <img src="https://github.com/klim0006/login_app/assets/153447396/41f54c13-dc92-45f9-ac5a-c9eccaaef9f8">  | <img src="https://github.com/klim0006/login_app/assets/153447396/0feeb79d-57c8-49a1-902b-1e9ac435b32c">|
 
 # Test Cases
 | Login  | Calculator |
