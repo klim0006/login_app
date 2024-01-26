@@ -79,4 +79,23 @@
 | <img width="920" alt="Assignment Kru P' Beam Web" src="https://github.com/klim0006/login_app/assets/153447396/8fffbfee-aca7-4236-8604-fc7b4ecfd6d2">  |
 > See more datail here https://docs.google.com/spreadsheets/d/1UxQoqlhFnklA0vm0RjBHAkjZNOpVhBMJGzYRKKUyfHM/edit#gid=364710650
 
+| 3. Log issue G-Wallet |
+| ------------- |
+| <img width="871" alt="Log issue G-Wallet" src="https://github.com/klim0006/login_app/assets/153447396/093c160a-34c6-4753-adc4-c07793cab799">  |
+> See more datail here https://docs.google.com/spreadsheets/d/1UxQoqlhFnklA0vm0RjBHAkjZNOpVhBMJGzYRKKUyfHM/edit#gid=1896394632
+
+| 4. Scenario Hungry Hub |
+| ------------- |
+| <img width="885" alt="Scenario Hungry Hub " src="https://github.com/klim0006/login_app/assets/153447396/39edaa58-7b5f-4dac-bd35-df8ebf7c65fd">  |
+> See more datail here https://docs.google.com/spreadsheets/d/1UxQoqlhFnklA0vm0RjBHAkjZNOpVhBMJGzYRKKUyfHM/edit#gid=1399482124
+
+| 5. Test Report |
+| ------------- |
+| <img width="844" alt="Test Report" src="https://github.com/klim0006/login_app/assets/153447396/82eae0be-e9ae-41be-942f-5f6da6efa599">  |
+> See more datail here https://docs.google.com/spreadsheets/d/1UxQoqlhFnklA0vm0RjBHAkjZNOpVhBMJGzYRKKUyfHM/edit#gid=616196027
+
+| 6. Flowchart |
+| ------------- |
+| <img width="913" alt="Flowchart" src="https://github.com/klim0006/login_app/assets/153447396/a2f02e31-0cc3-41de-a75f-1472a805ad12">  |
+> See more datail here https://docs.google.com/spreadsheets/d/1UxQoqlhFnklA0vm0RjBHAkjZNOpVhBMJGzYRKKUyfHM/edit#gid=908690516
 
