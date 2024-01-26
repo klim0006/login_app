@@ -64,3 +64,19 @@
 > Username: testusername
 
 > Password: 123456789
+
+---
+---
+
+# Assignments
+| 1. Register |
+| ------------- |
+| <img width="902" alt="Assignment Register" src="https://github.com/klim0006/login_app/assets/153447396/a60d5cf2-2411-4e26-8900-68f8bd61977b">  |
+> See more datail here https://docs.google.com/spreadsheets/d/1UxQoqlhFnklA0vm0RjBHAkjZNOpVhBMJGzYRKKUyfHM/edit#gid=878655925
+
+| 2. Kru P' Beam Web |
+| ------------- |
+| <img width="920" alt="Assignment Kru P' Beam Web" src="https://github.com/klim0006/login_app/assets/153447396/8fffbfee-aca7-4236-8604-fc7b4ecfd6d2">  |
+> See more datail here https://docs.google.com/spreadsheets/d/1UxQoqlhFnklA0vm0RjBHAkjZNOpVhBMJGzYRKKUyfHM/edit#gid=364710650
+
+
